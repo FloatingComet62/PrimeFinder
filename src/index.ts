@@ -15,6 +15,8 @@ const main = () => {
         }
         if(dividesBy==0){
             data.addPrime(i)
+            console.clear()
+            console.log(i)
         }
 
         data.addNum()
