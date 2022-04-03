@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Hello World\"",
     "watch": "tsc -w",
-    "dev": "node .",
-    "reset": "node dist/reset.js"
+    "start": "node .",
+    "reset": "node dist/reset.js",
+    "log": "node dist/log.js"
   },
   "repository": {
     "type": "git",
