@@ -1,0 +1,24 @@
+{
+  "name": "primenums",
+  "version": "1.0.0",
+  "description": "A prime number finder(runs forever)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "reset": "node reset.js",
+    "log": "node log.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloatingComet62/PrimeNums.git"
+  },
+  "keywords": [
+    "Math"
+  ],
+  "author": "FloatingComet62",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FloatingComet62/PrimeNums/issues"
+  },
+  "homepage": "https://github.com/FloatingComet62/PrimeNums#readme"
+}
